@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dananthony1
 - 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning stats libraries in Python, SQL, and how to work with data at various stages of the data pipeline. 
+- 🌱 I’m currently learning Python, SQL, and how to work with data at various stages of the data pipeline. 
 - 💞️ I’m looking to collaborate on simple projects to refine my coding skills.
 - 📫 How to reach me https://linktr.ee/dananthony
 
