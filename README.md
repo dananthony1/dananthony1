@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dananthony1
-- 👀 I’m interested in data engineering and data science.
-- 🌱 I’m currently learning Python, SQL, and how to work with data at various stages of the data pipeline. 
-- 💞️ I’m looking to collaborate on simple projects to refine my coding skills.
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently developing skills in Python and also know some Tidymodels in R and basic SQL queries. 
+- 💞️ Follow here to see simple projects to showcase my coding skills.
 - 📫 How to reach me https://linktr.ee/dananthony
 
 <!---
